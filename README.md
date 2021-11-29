@@ -11,4 +11,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debajyoti2050&show_icons=true&theme=dark&title_color=41ec55&text_color=3dffd8&locale=en" alt="debajyoti2050" /></p>
 
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debajyoti2050&theme=dark" alt="debajyoti2050" /></p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=debajyoti2050&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
