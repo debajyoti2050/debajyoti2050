@@ -48,7 +48,7 @@
   <h3>🗄️ Databases and Cloud Hosting</h3>
    <p align="center"> 
    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="66" height="60"/> </a>
    
    </p>
   
@@ -60,8 +60,9 @@
  <a href="https://visualstudiocode.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/> </a>
  <a href="https://chrome.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/chrome.png" alt="chrome" width="40" height="40"/> </a>
  <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" alt="jupyter" width="40" height="40"/> </a>
- <a href="https://obsdtudio.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/obs-studio.png" alt="obs" width="40" height="40"/> </a>
-  <a href="https://adobe.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-adobe-social-media-justicon-flat-justicon.png" alt="adobelogo" width="40" height="40"/> </a>
+ <a href="https://obsdtudio.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/64/obs-studio.png" alt="obs" width="40" height="40"/> </a>
+  <a href="https://microsoftoffice.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="msoffice" width="40" height="40"/> </a>
+    <a href="https://eclipse.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/nolan/64/java-eclipse.png" alt="eclipse" width="40" height="40"/> </a>
  
   </p>
 
