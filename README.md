@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Debajyoti Bhattacharjee</h1>
-<h3 align="center">A novice coder.</h3>
+<h1 align="center">
+  Welcome to Debajyoti's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/debajyoti2050/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/debajyoti2050/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Full-Stack%20Web%20Development;A%20Self%20Taught%20Developer;A%20Quick%20Learner;A%20Competitive%20Gamer&font=Fira%20Code&center=true&width=500&height=45&color=0066ff&vCenter=true&size=23"></a>
+</p>
+
+<!--<h1 align="center">Hi 👋, I'm Debajyoti Bhattacharjee</h1>
+<h3 align="center">A novice coder.</h3> -->
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=debajyoti2050&label=Profile%20views&color=0e75b6&style=flat" alt="debajyoti2050" /> </p>-->
 
