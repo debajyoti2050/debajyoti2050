@@ -23,7 +23,7 @@
 <a href="https://discord.gg/Debajyoti#2111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Debajyoti#2111" height="30" width="40" /></a>
 </p>
 <br>
-<h2 align="center">🛠️ My favorite tools 🛠️ </h2>
+<h1 align="center">🛠️ My favorite tools 🛠️ </h1>
 
 <div align="center">
 <h3>👨‍💻 Programming languages</h3>
