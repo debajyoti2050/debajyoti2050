@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/debajyoti-bhattacharjee-747a721b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https:www.facebook.com/micromaxdebajyoti.bhattacharjee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/micromaxdebajyoti.bhattacharjee/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/micromaxdebajyoti.bhattacharjee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/micromaxdebajyoti.bhattacharjee/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/debajyoti_bhattacharjee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/debajyoti_bhattacharjee/" height="30" width="40" /></a>
 <a href="https://discord.gg/Debajyoti#2111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Debajyoti#2111" height="30" width="40" /></a>
 </p>
