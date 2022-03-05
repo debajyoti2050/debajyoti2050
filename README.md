@@ -74,7 +74,8 @@
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debajyoti2050&show_icons=true&theme=dark&title_color=10fe97&text_color=80fdff&locale=en&layout=compact" alt="debajyoti2050" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debajyoti2050&show_icons=true&theme=dark&title_color=10fe97&text_color=80fdff&locale=en" alt="debajyoti2050" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debajyoti2050&show_icons=true&theme=dark&title_color=41ec55&text_color=3dffd8&locale=en" alt="debajyoti2050" /></p>
 
