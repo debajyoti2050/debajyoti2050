@@ -111,7 +111,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=debajyoti2050&theme=nightowl&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=debajyoti2050&theme=nightowl&no-bg=true&no-frame=true&langs_count=10&layout=compact"/>
   
   </td>
 </tr>
