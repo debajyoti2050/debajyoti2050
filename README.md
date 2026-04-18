@@ -1,20 +1,25 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Debajyoti%20Bhattacharjee&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AWS%20Certified%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=18"/>
+<!-- Space-Themed Header Banner with Name -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0b0f2e,50:1a1a5e,100:4a0e8a&height=260&section=header&text=Debajyoti%20Bhattacharjee&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%E2%9C%A6%20%20Full-Stack%20Developer%20%7C%20AWS%20Certified%20%7C%20Cloud%20Explorer%20%20%E2%9C%A6&descAlignY=62&descSize=16&fontFamily=Orbitron"/>
 
-<!-- Typing Animation -->
+<!-- Orbit Typing Animation -->
 <a href="https://github.com/debajyoti2050">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Learning+Full-Stack+Web+Development;Self-Taught+Developer+%F0%9F%92%BB;Cloud+Solutions+Architect+in+Training+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3500&pause=800&color=9D4EDD&center=true&vCenter=true&width=750&height=45&lines=%E2%9C%A6+Navigating+the+Code+Cosmos+%E2%9C%A6;%F0%9F%9A%80+Building+at+the+Speed+of+Light+%F0%9F%9A%80;%F0%9F%8C%8C+Self-Taught+Developer+%7C+Cloud+Architect+%F0%9F%8C%8C;%E2%AD%90+Always+Learning%2C+Always+Launching+%E2%AD%90" alt="Space Typing" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
+<!-- Floating Astronaut -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="180" alt="Astronaut" />
+
+<br/>
+
+<!-- Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=debajyoti2050&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/debajyoti2050?label=Followers&style=for-the-badge&color=36BCF7" alt="followers" />
-  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified" />
+  <img src="https://img.shields.io/github/followers/debajyoti2050?label=Followers&style=for-the-badge&color=9D4EDD&labelColor=0b0f2e" alt="followers" />
+  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0b0f2e" alt="AWS Certified" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-36BCF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0f2e" alt="Collaborate" />
 </p>
 
 </div>
@@ -38,7 +43,7 @@ fun_fact: "I turn coffee into code and bugs into features ☕"
 
 <div align="center">
 
-### 🏆 Verified Credentials
+### 🛸 Verified Credentials
 <a href="https://www.credly.com/badges/2016ba0e-a167-4e79-ba61-fbc0bb8e2038/linked_in_profile" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS Certified Cloud Practitioner" />
 </a>
@@ -49,7 +54,7 @@ fun_fact: "I turn coffee into code and bugs into features ☕"
 
 <div align="center">
 
-## 🌐 Connect With Me
+## 🌌 Connect With Me
 
 <a href="https://www.linkedin.com/in/debajyoti-bhattacharjee-747a721b3" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -97,17 +102,17 @@ fun_fact: "I turn coffee into code and bugs into features ☕"
 ## 📊 GitHub Analytics
 
 <a href="https://github.com/debajyoti2050">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=debajyoti2050&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debajyoti2050&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=debajyoti2050&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0b0f2e"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debajyoti2050&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0b0f2e"/>
 </a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=debajyoti2050&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=debajyoti2050&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0b0f2e" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=debajyoti2050&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=debajyoti2050&theme=tokyo-night&hide_border=true&area=true&bg_color=0b0f2e" alt="Activity Graph" />
 
 </div>
 
@@ -115,19 +120,7 @@ fun_fact: "I turn coffee into code and bugs into features ☕"
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=debajyoti2050&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💭 Dev Quote of the Day
+## 💭 Transmission From The Void
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
@@ -137,12 +130,7 @@ fun_fact: "I turn coffee into code and bugs into features ☕"
 
 <div align="center">
 
-### 👀 Thanks for stopping by!
-
-<img src="https://profile-counter.glitch.me/debajyoti2050/count.svg" alt="Visitor Count" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
+<!-- Space-Themed Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:4a0e8a,50:1a1a5e,100:0b0f2e&height=120&section=footer&animation=twinkling"/>
 
 </div>
